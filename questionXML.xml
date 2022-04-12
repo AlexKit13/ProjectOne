@@ -1,0 +1,5 @@
+<questions>
+<body><id>0</id><question>Модульное тестирование — это метод тестирования программного обеспечения при котором создаются модули, то есть небольшие части приложения, поведение каждого из которых проверяется отдельно.</question><theme>Unit Test</theme><answer>True</answer><date>17.01.2022 03:25:26</date></body>
+<body><id>1</id><question>Тег caption не является основным</question><theme>Element HTML</theme><answer>True</answer><date>17.01.2022 03:30:48</date></body>
+<body><id>2</id><question>border является параметром тега font</question><theme>Element HTML</theme><answer>False</answer><date>17.01.2022 03:33:05</date></body>
+</questions>
