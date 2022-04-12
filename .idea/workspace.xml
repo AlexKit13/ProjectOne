@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7c16998-62dd-4516-97bf-41ce0d06a3d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/01_Project-test/questionCSV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/questionCSV.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Project-test/questionJson.json" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/questionJson.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Project-test/questionXML.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/questionXML.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Project-test/questionYAML.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/questionYAML.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Project-test/src/indexQuestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/src/indexQuestions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Project-test/src/styleQuestions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/01_Project-test/src/styleQuestions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Education_module2/09_aplication_calculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,7 +41,16 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\01_Project\01_Project-test" />
+      <recent name="C:\Users\Admin\Desktop\01_Project\01_Project-test\File System" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="indexAbout.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/01_Project/01_Project-test/dist/indexAbout.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/01_Project-test/package.json" />
       <command value="run" />
@@ -67,6 +71,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/01_Project-test/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/01_Project-test/package.json" />
       <command value="run" />
@@ -79,9 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
-        <item itemvalue="npm.watch" />
         <item itemvalue="npm.serve" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="JavaScript Debug.indexAbout.html" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.watch" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +112,18 @@
       <workItem from="1642172028590" duration="22000" />
       <workItem from="1642173510200" duration="50000" />
       <workItem from="1642180589259" duration="55000" />
-      <workItem from="1642363684790" duration="4588000" />
+      <workItem from="1642363684790" duration="4962000" />
+      <workItem from="1642405651114" duration="4618000" />
+      <workItem from="1642437344315" duration="12000" />
+      <workItem from="1642810879218" duration="4652000" />
+      <workItem from="1642883411166" duration="7997000" />
+      <workItem from="1642901684355" duration="10000" />
+      <workItem from="1643227205202" duration="1659000" />
+      <workItem from="1643231937729" duration="19000" />
+      <workItem from="1643289056685" duration="17000" />
+      <workItem from="1644410057828" duration="54000" />
+      <workItem from="1644419299156" duration="499000" />
+      <workItem from="1644421706307" duration="483000" />
     </task>
     <servers />
   </component>
